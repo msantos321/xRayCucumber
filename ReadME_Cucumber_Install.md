@@ -1,17 +1,21 @@
-Cucumber 
+Cucumber Doc
 https://cucumber.io/
 
 Pre-reqs:
-Node
-Scripting language of your preference: JavaScript, Java, Ruby, etc
-Gem
-Editor of your preference, Sublime, Visual Studio, etc
+Node/JRE/GEM
+Scripting 
+
+Programming language supported:
+Use any preferable: JavaScript, Java, Ruby, etc
+
+Editor: 
+Sublime, Visual Studio, etc
 
 If using Ruby:
-Donwload Ruby with Dev Kit
+A. Donwload Ruby with Dev Kit
 https://rubyinstaller.org/downloads/
 
-Download Gem (Selenium-cucumber)
+B. Download Gem (Selenium-cucumber)
 https://rubygems.org/gems/selenium-cucumber/versions/3.1.5
 gem install selenium-cucumber
 
